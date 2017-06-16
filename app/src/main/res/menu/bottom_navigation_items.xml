@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_item1"
+        android:icon="@drawable/active_stbs"
+        android:title="a1"/>
+    <item
+        android:id="@+id/action_item2"
+        android:icon="@drawable/assigned_stbs"
+        android:title="tem_2"/>
+    <item
+        android:id="@+id/action_item3"
+        android:icon="@drawable/deactive_stb"
+        android:title="item_3"/>
+</menu>
